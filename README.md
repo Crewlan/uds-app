@@ -1,16 +1,20 @@
 # uds_app
 
-A new Flutter project.
+Projetto Flutter com Firebase.
 
-## Getting Started
+Descrição
 
-This project is a starting point for a Flutter application.
+Este projeto utiliza Database, Authentication do Google Firebase.
+Contem algums bugs de verificação no login, pois a API do Firebase se encontra com alguns bugs com o AndroidX.
 
-A few resources to get you started if this is your first Flutter project:
+Plugins utilizados no projeto: 
+  cupertino_icons
+  cloud_firestore
+  transparent_image
+  scoped_model
+  firebase_auth
+  simple_animations
+  firebase_core
+  flutter_launcher_icons
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  Intuito do app é para a empresa e seus funcionarios colocarem suas pautas e todos verem, e assim poderem colocar como finalizadas quando completadas.
