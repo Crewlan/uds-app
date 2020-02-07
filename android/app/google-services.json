@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "46079222552",
+    "firebase_url": "https://uds-app2.firebaseio.com",
+    "project_id": "uds-app2",
+    "storage_bucket": "uds-app2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46079222552:android:51829510a707cd791eb46d",
+        "android_client_info": {
+          "package_name": "com.example.uds_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46079222552-ern2g1brcv3ibr58j9kr5unl7774v4tk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uds_app",
+            "certificate_hash": "ddfab4ead2f4761e64f40fdbaf3ad3aae4983bd7"
+          }
+        },
+        {
+          "client_id": "46079222552-d99ibtiti5bnm9obv9241gnfv6uv0rcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4AqECxujpBZavVf00LRuWWth4UMg2liQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46079222552-d99ibtiti5bnm9obv9241gnfv6uv0rcf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
